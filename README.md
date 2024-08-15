@@ -1,3 +1,6 @@
+# Starter with NextJS, Lucia Auth, Drizzle, Postgres, Tailwind and DaisyUI
+This is a basic app template built with the above techstack. Create a .env from env.example, spin up the db with docker compose up -d postgres and run npm run dev to get started. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
